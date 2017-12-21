@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+echo "Hi $USER! We hope you liked the small roundtrip with docker! Join our family! See you at $1"
